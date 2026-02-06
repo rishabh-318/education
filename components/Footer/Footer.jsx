@@ -22,7 +22,7 @@ const Footer = () => {
               className="-ml-[20px] md:-ml-[26px] mt-2 md:mt-4"
             />
           </Link>
-          <div>
+          {/* <div>
             <h2 className="text-[14px] md:text-[20px] font-bold">
               Where will your studies take you?
             </h2>
@@ -55,12 +55,12 @@ const Footer = () => {
                 </li>
               </ul>
             </nav>
-          </div>
+          </div> */}
         </div>
 
         {/* Right section */}
         <div className="font-jost lg:w-4/12 flex flex-col justify-center relative -mt-5">
-          <h3 className="font-bold text-[14px] md:text-[20px] leading-[28px]">
+          {/* <h3 className="font-bold text-[14px] md:text-[20px] leading-[28px]">
             Get your counseling pathway
           </h3>
           <form
@@ -89,7 +89,7 @@ const Footer = () => {
             >
               Get
             </button>
-          </form>
+          </form> */}
           <nav>
             <ul className="md:flex-row md:text-[1rem] flex lg:hidden flex-col gap-5 my-4 mt-10">
               <li className="underline">

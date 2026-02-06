@@ -69,7 +69,7 @@ const Ourservices = () => {
                   </h3>
                   <p className="font-jost text-[#5C6066] leading-[20.2px] md:leading-[23px] text-[14px] md:text-[16px] mt-2 md:mt-1.5">
                     We Help You Get Scholarship And Education Loan. We Also
-                    Offer Guaranteed SIO Scholarship Of Up To Rs. 20,000.
+                    Offer Guaranteed SIO Scholarship.
                   </p>
                 </span>
                 <span className="flex lg:hidden flex-col">
@@ -180,7 +180,7 @@ const Ourservices = () => {
                   </h3>
                   <p className="font-jost text-[#5C6066] leading-[20.2px] md:leading-[23px] text-[14px] md:text-[16px] mt-2 md:mt-1.5">
                     We Help You Get Scholarship And Education Loan. We Also
-                    Offer Guaranteed SIO Scholarship Of Up To Rs. 20,000.
+                    Offer Guaranteed SIO Scholarship.
                   </p>
                 </span>
               </div>

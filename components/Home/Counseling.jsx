@@ -39,7 +39,7 @@ const Counseling = ({ page }) => {
               <p className="text-[14px] md:text-[16px] leading-[20px] font-jost">
                 {
                   [
-                    "Free Expert Counseling Service",
+                    "Expert Counseling Service",
                     "Identify Course, Country & University",
                     "International Test Preparation",
                     "Application Editing & Processing",
