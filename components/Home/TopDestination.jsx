@@ -29,13 +29,27 @@ const TopDestination = () => {
         </div>
 
         {/* Flags section */}
+        {/* Australia/UK/Ireland/Netherland/Germany/USA/CANADA */}
         <div className="hidden w-full my-[4rem] lg:flex justify-between">
-          {[
-            { src: "/Images/flag1.png", text: "Study in USA" },
-            { src: "/Images/flag2.png", text: "Study in UK" },
-            { src: "/Images/flag3.png", text: "Study in Canada" },
+          {/* {[
             { src: "/Images/flag4.png", text: "Study in Australia" },
-            { src: "/Images/flag5.png", text: "Study in Italy" },
+            { src: "/Images/flag2.png", text: "Study in UK" },
+            { src: "/Images/IrelandFlag.jpg", text: "Study in Ireland" },
+            { src: "/Images/NeitherlandsFlag.jpg", text: "Study in Netherlands" },
+            { src: "/Images/GermanyFlag.jpg", text: "Study in Germany" },
+            // { src: "/Images/flag1.png", text: "Study in USA" },
+            // { src: "/Images/flag3.png", text: "Study in Canada" },
+            // { src: "/Images/flag5.png", text: "Study in Italy" },
+          ] */}
+          {[
+            { src: "/Images/flag4.png", text: "Study in Australia" },
+            { src: "/Images/uk_flag.jpg", text: "Study in UK" },
+            { src: "/Images/ireland_flag.png", text: "Study in Ireland" },
+            { src: "/Images/netherlands_flag.png", text: "Study in Netherlands" },
+            { src: "/Images/germany_flag.png", text: "Study in Germany" },
+            // { src: "/Images/flag1.png", text: "Study in USA" },
+            // { src: "/Images/flag3.png", text: "Study in Canada" },
+            // { src: "/Images/flag5.png", text: "Study in Italy" },
           ].map((flag, index) => (
             <div
               key={index}
